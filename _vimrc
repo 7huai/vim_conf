@@ -126,8 +126,6 @@ set guifont=consolas:h12:cANSI:qDRAFT
 " set ctags
 " 执行下列命令加入系统函数的tags
 " ctags -I __THROW –file-scope=yes –langmap=c:+.h –languages=c,c++ –links=yes –c-kinds=+p --fields=+S -R -f ~/.vim/systags /usr/include /usr/local/include
-" set tags = ~/E:/program/Gvim82/Tags_stm32f10x/tags
-" set tags = ~/C:/Users/7huai/Desktop/FreeRTOS/freertos/Source/tags
 
 "-------------------------Plug-----------------------------"
 filetype plugin indent on
